@@ -1,6 +1,6 @@
 I am David Griswold, teacher and occasionally coder.
 
-You can see my blog at http://davidgriswoldhh.mtbos.org
+You can see my blog at <http://davidgriswoldhh.mtbos.org>
 
 For a full list of my projects, see my normal [GitHub page](https://www.github.com/DavidRGriswold)
 
