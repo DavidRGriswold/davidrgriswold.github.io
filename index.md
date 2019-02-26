@@ -10,5 +10,5 @@ For a full list of my projects, see my normal [GitHub page](https://www.github.c
 
 ## School Related Projects
 
-*  **Graded *Web Design* Course About Page, 2019-2020** -([Project Page](https://github.com/DavidRGriswold/graded-web-design-about-page-2019), [Live Page](https://davidrgriswold.github.io/graded-web-design-about-page-2019/)
-*  **Graded *Programming Essentials* Course About Page, 2019-2020** ([Project Page](https://github.com/DavidRGriswold/graded-programming-essentials-about-page-2019), [Live Page](https://davidrgriswold.github.io/graded-programming-essentials-about-page-2019/)
+*  **Graded *Web Design* Course About Page, 2019-2020** -([Project Page](https://github.com/DavidRGriswold/graded-web-design-about-page-2019), [Live Page](https://davidrgriswold.github.io/graded-web-design-about-page-2019/))
+*  **Graded *Programming Essentials* Course About Page, 2019-2020** ([Project Page](https://github.com/DavidRGriswold/graded-programming-essentials-about-page-2019), [Live Page](https://davidrgriswold.github.io/graded-programming-essentials-about-page-2019/))
